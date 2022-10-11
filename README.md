@@ -2,7 +2,7 @@
 
 ## **Descrizione**
 
-Lo scopo del progetto è quello di creare un semplice counter che mostra un valore a schermo, il quale viene aumentato o diminutito tramite l'utilizzo di due bottoni +/-.
+Lo scopo del progetto è quello di creare un semplice counter che mostra un valore a schermo, il quale viene aumentato o diminuito tramite l'utilizzo di due bottoni +/-.
 
 Il counter è stato costruito in modo tale da non poter scendere mai sotto lo 0.
 
